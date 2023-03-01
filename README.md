@@ -1,4 +1,4 @@
-These projects were completed for Practicum's Data Analyst / Data Scientist professional training programs.
+These projects were completed for Practicum's Data Analyst professional training programs.
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
