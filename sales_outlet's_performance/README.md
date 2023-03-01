@@ -19,11 +19,11 @@
 To find out whether loyalty program has positive impact on sales figures
 
 ### Libraries used:
-pandas
-numpy
-matplotlib.pyplot
-seaborn
-datetime
-math
-scipy.stats
-plotly
+- pandas
+- numpy
+- matplotlib.pyplot
+- seaborn
+- datetime
+- math
+- scipy.stats
+- plotly
