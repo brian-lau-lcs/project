@@ -1,5 +1,4 @@
 ### Data:
-
 1.  retail_dataset_us.csv contains:
 
 - *purchaseId* - unique ID for each purchase
@@ -27,3 +26,6 @@ To find out whether loyalty program has positive impact on sales figures
 - math
 - scipy.stats
 - plotly
+
+### Result Dashboard in Tableau:
+[Please click here](https://public.tableau.com/views/Project-SalesOutletsPerformance/Dashboardp_1?:language=zh-TW&publish=yes&:display_count=n&:origin=viz_share_link)
